@@ -27,3 +27,10 @@ body{
     height: 60px;
     display: inline-block;
 }
+.menu .middle{
+    background: #fddede;
+    height: 600px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -27px;
+}
