@@ -29,8 +29,16 @@ body{
 }
 .menu .middle{
     background: #fddede;
-    height: 600px;
     font-size: 20px;
     text-align: center;
-    margin-top: -27px;
+}
+.footer{
+    background: darksalmon;
+    text-align: center;
+}
+.footer .middle img{
+    height: 250px;
+}
+.topmenu .fone{
+    color: red;
 }
